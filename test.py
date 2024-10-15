@@ -1,1 +1,7 @@
 print("hello python")
+print("Techin Sriputh")
+print("Sprite")
+print("18Y")
+print("07")
+print("67319010028")
+print("เล่นเกม ฟังเพลง")
