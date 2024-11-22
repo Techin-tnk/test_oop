@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  testoop:
+    image: testoop
+    build:
+      context: .
+      dockerfile: ./Dockerfile
